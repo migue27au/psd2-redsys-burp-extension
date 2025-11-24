@@ -1,4 +1,4 @@
-# PSD2-Redsys extension
+# Redsys PSD2 Request Signer
 psd2-extension is a Burp Suite extension that signs requests to the Redsys PSD2 API.
 It calculates the required values and adds the following headers automatically to Repeater requests (or matching Host requests):
 - X-Request-ID
